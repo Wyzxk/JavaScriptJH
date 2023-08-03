@@ -1,0 +1,14 @@
+*{
+    font-size: 18px;
+}
+body {
+    background-color: rgb(124, 233, 236);
+}
+h1{
+    color:red;  
+    font-size: 30px;
+}
+.list{
+    margin-top: 50px;
+    
+}

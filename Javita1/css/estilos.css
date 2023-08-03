@@ -1,0 +1,11 @@
+* {
+    font-size: 16px;
+}
+
+.loco {
+    text-align: center;
+    background-color: aqua;
+    padding: 1em;
+    margin: -10px;
+    border: 10px, rgb(233, 19, 19);
+}
